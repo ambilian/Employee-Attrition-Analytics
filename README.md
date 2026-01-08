@@ -57,5 +57,4 @@ The dashboard enables both high-level monitoring of overall attrition and deeper
 
 ---
 
-## One-Line Project Summary
-Built an interactive Power BI attrition analytics dashboard to identify workforce turnover drivers and support data-driven retention and workforce planning decisions.
+
