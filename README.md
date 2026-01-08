@@ -1,14 +1,14 @@
 # 📉 Employee Attrition Analytics Dashboard
 
 ## Executive Summary
-This project provides a detailed and practical view of employee attrition across the organisation, helping leaders understand not just how many employees are leaving, but *why* they are leaving and *where* the risks are concentrated. Using a dataset of 150 employees, the dashboard brings together demographic, compensation, job satisfaction, management, and commute-related factors into a single analytical view. The analysis highlights that attrition is a multi-dimensional issue driven by leadership practices, income levels, job satisfaction, and travel burden rather than a single isolated cause. The insights from this dashboard are designed to support informed retention strategies, workforce planning, and people-focused decision-making. :contentReference[oaicite:1]{index=1}
+This project provides a detailed and practical view of employee attrition across the organisation, helping leaders understand not just how many employees are leaving, but *why* they are leaving and *where* the risks are concentrated. Using a dataset of 150 employees, the dashboard brings together demographic, compensation, job satisfaction, management, and commute-related factors into a single analytical view. The analysis highlights that attrition is a multi-dimensional issue driven by leadership practices, income levels, job satisfaction, and travel burden rather than a single isolated cause. The insights from this dashboard are designed to support informed retention strategies, workforce planning, and people-focused decision-making. 
 
 ---
 
 ## Project Overview
 The objective of this project was to identify the key drivers of employee attrition and present them in a way that is easy for HR teams and business leaders to interpret and act upon. A Power BI dashboard was developed using employee-level data covering age, gender, income range, job satisfaction, distance to work, reporting manager, recruitment source, tenure, and performance indicators.
 
-The dashboard enables both high-level monitoring of overall attrition and deeper, drill-down analysis across individual attributes. Users can explore attrition patterns by manager, income group, age category, job satisfaction level, commute distance, and hiring channel, allowing leadership to move from reactive reporting to proactive workforce interventions. :contentReference[oaicite:2]{index=2}
+The dashboard enables both high-level monitoring of overall attrition and deeper, drill-down analysis across individual attributes. Users can explore attrition patterns by manager, income group, age category, job satisfaction level, commute distance, and hiring channel, allowing leadership to move from reactive reporting to proactive workforce interventions. 
 
 ---
 
@@ -19,7 +19,7 @@ The dashboard enables both high-level monitoring of overall attrition and deeper
 - Younger employees (**under 30**) display slightly higher attrition rates, suggesting early-career instability and higher mobility.
 - **Job satisfaction has a clear relationship with attrition**, where lower satisfaction levels correspond to higher exit rates.
 - **Commute distance is a strong attrition driver**; employees travelling more than 40 units of distance show near-total attrition, while those living closer (<20) are far more likely to stay.
-- Recruitment source analysis shows that **job board hires account for the largest share of employees**, but also contribute disproportionately to attrition compared to referrals and recruiter-led hires. :contentReference[oaicite:3]{index=3}
+- Recruitment source analysis shows that **job board hires account for the largest share of employees**, but also contribute disproportionately to attrition compared to referrals and recruiter-led hires. 
 
 ---
 
